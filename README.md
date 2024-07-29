@@ -1,3 +1,0 @@
-# newReactProject
-
-## Hello
